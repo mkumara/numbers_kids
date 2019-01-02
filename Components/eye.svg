@@ -14,10 +14,24 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="eye.svg">
+   sodipodi:docname="eye.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
   <defs
-     id="defs2" />
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter949"
+       x="-0.11057143"
+       width="1.2211429"
+       y="-0.10554545"
+       height="1.2110909">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.0343331"
+         id="feGaussianBlur951" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,22 +39,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.11313708"
-     inkscape:cx="919.13448"
-     inkscape:cy="-3748.6612"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="227.65584"
+     inkscape:cy="281.16911"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     showborder="false"
      inkscape:window-width="1440"
      inkscape:window-height="782"
      inkscape:window-x="0"
      inkscape:window-y="1"
-     inkscape:window-maximized="1"
-     inkscape:snap-grids="false"
-     inkscape:snap-to-guides="false"
-     inkscape:object-nodes="false"
-     inkscape:snap-page="false" />
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -49,7 +58,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,94 +65,101 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       inkscape:connector-curvature="0"
-       id="path9274"
-       d=""
-       style="opacity:0.98000004;fill:#000000;fill-opacity:0.91153846;fill-rule:nonzero;stroke:none;stroke-width:22.09708595;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
-       id="2"
-       inkscape:label="#g10450"
-       transform="translate(41.907862,-490.92067)">
+       id="g908"
+       inkscape:export-filename="/Users/jayantha/Desktop/Personal/Youtube_Channel/Art-works/Components/Eye/eye_ball.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
-         id="g10144"
-         transform="translate(0.61860001,353.12986)">
+         transform="translate(-71.815476,21.166667)"
+         id="g900">
         <ellipse
-           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#181616;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse10136"
-           cx="84.189903"
-           cy="1432.3943"
-           rx="72.496857"
-           ry="73.666168" />
-        <path
-           style="opacity:0.98000004;fill:#5b8de7;fill-opacity:0.81153846;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 29.968584,1480.2581 a 73.666167,72.496856 31.925811 0 0 14.928782,12.3576 73.666167,72.496856 31.925811 0 0 100.860904,-22.5742 73.666167,72.496856 31.925811 0 0 -19.93018,-97.5361 73.666167,72.496856 31.925811 0 1 9.25786,88.1307 73.666167,72.496856 31.925811 0 1 -100.860913,22.5743 73.666167,72.496856 31.925811 0 1 -4.256453,-2.9523 z"
-           id="path10138"
-           inkscape:connector-curvature="0" />
-        <ellipse
-           style="opacity:0.98000004;fill:#000000;fill-opacity:0.81153846;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="ellipse10140"
-           cx="83.020592"
-           cy="1426.5479"
-           rx="29.232607"
-           ry="30.401907" />
-        <circle
-           style="opacity:0.98000004;fill:#ffffff;fill-opacity:0.91153846;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle10142"
-           cx="81.851295"
-           cy="1406.6697"
-           r="7.0158248" />
-      </g>
-      <g
-         transform="translate(103.51737,328.57447)"
-         id="g10154">
-        <ellipse
-           ry="73.666168"
-           rx="72.496857"
-           cy="1432.3943"
-           cx="84.189903"
-           id="ellipse10146"
-           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#181616;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           ry="61.988094"
+           rx="64.255951"
+           cy="188.8988"
+           cx="90.714287"
+           id="ellipse896"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#060202;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
            inkscape:connector-curvature="0"
-           id="path10148"
-           d="m 29.968584,1480.2581 a 73.666167,72.496856 31.925811 0 0 14.928782,12.3576 73.666167,72.496856 31.925811 0 0 100.860904,-22.5742 73.666167,72.496856 31.925811 0 0 -19.93018,-97.5361 73.666167,72.496856 31.925811 0 1 9.25786,88.1307 73.666167,72.496856 31.925811 0 1 -100.860913,22.5743 73.666167,72.496856 31.925811 0 1 -4.256453,-2.9523 z"
-           style="opacity:0.98000004;fill:#5b8de7;fill-opacity:0.81153846;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <ellipse
-           ry="30.401907"
-           rx="29.232607"
-           cy="1426.5479"
-           cx="83.020592"
-           id="ellipse10150"
-           style="opacity:0.98000004;fill:#000000;fill-opacity:0.81153846;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <circle
-           r="7.0158248"
-           cy="1406.6697"
-           cx="81.851295"
-           id="circle10152"
-           style="opacity:0.98000004;fill:#ffffff;fill-opacity:0.91153846;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="opacity:1;fill:#7ca4ec;fill-opacity:0.99607843;fill-rule:nonzero;stroke:none;stroke-width:4.79646015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 91.187485,248.53263 a 62.2552,58.877265 0 0 0 62.255275,-58.87762 62.2552,58.877265 0 0 0 -17.88607,-41.27543 62.2552,58.877265 0 0 1 6.89978,26.91518 62.2552,58.877265 0 0 1 -62.255266,58.87714 62.2552,58.877265 0 0 1 -44.369206,-17.60167 62.2552,58.877265 0 0 0 55.355487,31.9624 z"
+           id="path898" />
       </g>
+      <g
+         transform="rotate(-15.343737,119.74757,164.24112)"
+         id="g894">
+        <ellipse
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#060202;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path880"
+           cx="90.714287"
+           cy="188.8988"
+           rx="64.255951"
+           ry="61.988094" />
+        <path
+           id="path890"
+           d="m 91.187485,248.53263 a 62.2552,58.877265 0 0 0 62.255275,-58.87762 62.2552,58.877265 0 0 0 -17.88607,-41.27543 62.2552,58.877265 0 0 1 6.89978,26.91518 62.2552,58.877265 0 0 1 -62.255266,58.87714 62.2552,58.877265 0 0 1 -44.369206,-17.60167 62.2552,58.877265 0 0 0 55.355487,31.9624 z"
+           style="opacity:1;fill:#7ca4ec;fill-opacity:0.99607843;fill-rule:nonzero;stroke:none;stroke-width:4.79646015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g980"
+       inkscape:export-filename="/Users/jayantha/Desktop/Personal/Youtube_Channel/Art-works/Components/Figures/Eye/eye_pupil.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(43.832203,-166.77619)">
+      <g
+         transform="matrix(0.70765273,0,0,0.68235291,155.5633,108.75487)"
+         id="g955">
+        <circle
+           style="opacity:1;fill:#010307;fill-opacity:0.99607843;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path929"
+           cx="-268.33862"
+           cy="382.52625"
+           r="40.624966" />
+        <ellipse
+           style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter949)"
+           id="path931"
+           cx="-275.2876"
+           cy="361.14468"
+           rx="11.22532"
+           ry="11.759859" />
+      </g>
+      <g
+         transform="matrix(0.69449484,0,0,0.68235291,226.56694,97.91316)"
+         id="g961">
+        <circle
+           r="40.624966"
+           cy="382.52625"
+           cx="-268.33862"
+           id="circle957"
+           style="opacity:1;fill:#010307;fill-opacity:0.99607843;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <ellipse
+           ry="11.759859"
+           rx="11.22532"
+           cy="361.14468"
+           cx="-275.2876"
+           id="ellipse959"
+           style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter949)" />
+      </g>
+    </g>
+    <g
+       id="g984"
+       transform="translate(0,-13.898015)"
+       inkscape:export-filename="/Users/jayantha/Desktop/Personal/Youtube_Channel/Art-works/Components/Eye/eye_brow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <path
          inkscape:connector-curvature="0"
-         id="path10156"
-         d="m 266.31639,1614.1444 a 62.154173,85.924488 49.474118 0 0 -104.96576,5.7208 62.154173,85.924488 49.474118 0 0 -36.39084,56.1135 62.154173,85.924488 49.474118 0 1 31.87844,-42.0343 62.154173,85.924488 49.474118 0 1 104.96621,-5.7212 62.154173,85.924488 49.474118 0 1 8.53741,47.1637 62.154173,85.924488 49.474118 0 0 -4.02546,-61.2425 z"
-         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         id="path975"
+         d="M 173.72844,72.465834 A 62.637921,73.696751 50.372935 0 0 77.560272,68.388785 62.637921,73.696751 50.372935 0 0 47.566149,116.75142 58.197928,91.338521 51.442615 0 1 69.174953,95.547303 58.197928,91.338521 51.442615 0 1 176.50252,85.194832 58.197928,91.338521 51.442615 0 1 184.49485,116.59569 62.637921,73.696751 50.372935 0 0 173.72844,72.465834 Z"
+         style="opacity:1;fill:#000000;fill-opacity:0.99607843;fill-rule:nonzero;stroke:none;stroke-width:3.30886531;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
-         style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -39.671927,1623.3295 a 85.924488,62.154173 40.525882 0 1 104.965757,5.7208 85.924488,62.154173 40.525882 0 1 36.39084,56.1135 85.924488,62.154173 40.525882 0 0 -31.87844,-42.0343 85.924488,62.154173 40.525882 0 0 -104.966207,-5.7212 85.924488,62.154173 40.525882 0 0 -8.53741,47.1637 85.924488,62.154173 40.525882 0 1 4.02546,-61.2425 z"
-         id="path10158"
+         style="opacity:1;fill:#000000;fill-opacity:0.99607843;fill-rule:nonzero;stroke:none;stroke-width:3.30886531;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -96.014226,98.123709 A 73.696751,62.637921 39.627065 0 1 0.15394414,94.04666 73.696751,62.637921 39.627065 0 1 30.148064,142.40929 91.338521,58.197928 38.557385 0 0 8.5392641,121.20518 91.338521,58.197928 38.557385 0 0 -98.788306,110.85271 a 91.338521,58.197928 38.557385 0 0 -7.992334,31.40085 73.696751,62.637921 39.627065 0 1 10.766414,-44.129851 z"
+         id="path980"
          inkscape:connector-curvature="0" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:25.39999962px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="880.53333"
-       y="1406.1333"
-       id="text10596"><tspan
-         sodipodi:role="line"
-         id="tspan10594"
-         x="880.53333"
-         y="1428.6063"
-         style="stroke-width:0.26458332" /></text>
   </g>
 </svg>
