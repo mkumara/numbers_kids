@@ -1,0 +1,33 @@
+<Motion duration="16" xmlns="fl.motion.*" xmlns:geom="flash.geom.*" xmlns:filters="flash.filters.*">
+	<source>
+		<Source frameRate="12" x="238.35" y="685.8" scaleX="0.571" scaleY="0.464" skewX="-0.4" skewY="-1" elementType="movie clip" symbolName="one/one">
+			<dimensions>
+				<geom:Rectangle left="538.8" top="558.15" width="608.3" height="741.4"/>
+			</dimensions>
+			<transformationPoint>
+				<geom:Point x="0.530823606772974" y="0.9892096034529269"/>
+			</transformationPoint>
+		</Source>
+	</source>
+
+	<Keyframe index="0" zDepth="0"/>
+
+	<Keyframe index="1" zDepth="0" tweenSnap="true" y="0">
+		<tweens>
+		</tweens>
+	</Keyframe>
+
+	<Keyframe index="5" zDepth="0" x="-0.04999999999998295" y="0.05000000000006821" scaleY="0.6228448275862069"/>
+
+	<Keyframe index="7" zDepth="0" tweenSnap="true" scaleY="1.0301724137931034" skewX="16">
+		<tweens>
+		</tweens>
+	</Keyframe>
+
+	<Keyframe index="10" zDepth="0" tweenSnap="true" x="205.50000000000003" y="-100.79999999999995" scaleY="0.9870689655172413" rotation="0">
+		<tweens>
+		</tweens>
+	</Keyframe>
+
+	<Keyframe index="15" zDepth="0" x="329.6" y="-0.09999999999990905"/>
+</Motion>

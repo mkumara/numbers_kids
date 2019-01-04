@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-111.42857"
-     inkscape:cy="497.82824"
+     inkscape:cx="0"
+     inkscape:cy="612.11396"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -53,7 +53,9 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g835">
+       id="g835"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <rect
          y="0.024230646"
          x="98.349648"
